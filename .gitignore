@@ -125,6 +125,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+venv/
+__pycache__/
+.env
 # yarn v3
 .pnp.*
 .yarn/*
